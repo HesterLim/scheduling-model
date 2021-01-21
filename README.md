@@ -9,3 +9,5 @@ The University of Melbourne has bought a new supercomputer that will allow all t
 - Duration of the program (seconds).
 - School evaluation for the activity [1 - 10].
 The file Requests.csv contains all the different requests that the IT department has obtained for the first day. In this assessment, we will consider various scenarios, and you will assist them in selecting an adequate schedule.
+
+This is a model applying scheduling algorithms to optimize supercomputer's access
